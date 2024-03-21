@@ -31,6 +31,8 @@ After training, the script generates various metrics to evaluate model performan
 2. Replace `""` with your Roboflow API key.
 3. Adjust the dataset version and project name according to your Roboflow account.
 4. Run the script in a Python environment with GPU support to commence training and evaluation.
+5. View the status of your deployment at: https://app.roboflow.com/martin-rpfil/is_it_damaged/8
+
 
 ## Contributing
 
