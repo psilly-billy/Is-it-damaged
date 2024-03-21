@@ -4,7 +4,7 @@ This Jupyter Notebook demonstrates the process of training a YOLOv8 model for da
 
 ## Overview
 
-The script performs several key operations:
+The Notebook performs several key operations:
 - Checks GPU availability using `nvidia-smi`.
 - Installs YOLOv8 and Roboflow packages.
 - Downloads a specific dataset version from Roboflow.
